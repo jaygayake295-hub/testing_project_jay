@@ -11,9 +11,9 @@ public class fblogintest {
 		Thread.sleep(1000);
 		driver.get("https://secure.facebook.com/");
 		Thread.sleep(1000);
-		driver.findElement(By.id("email")).sendKeys("fct@gmail.com");
+		driver.findElement(By.id("email")).sendKeys("jaygayke@2gmail.com");
 		Thread.sleep(1000);
-		driver.findElement(By.id("pass")).sendKeys("fct1234");
+		driver.findElement(By.id("pass")).sendKeys("7057213872");
 		Thread.sleep(1000);
 		driver.close();
 	}
